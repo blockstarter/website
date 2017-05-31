@@ -1,7 +1,7 @@
 # Blockstarter.co
 
-Blockstarter contribution project
+Have you found an issue on the website or want to request a feature?
 
-Did you find a problem on the website?
+Please create an `issue` on GitHub.
 
-Please create the `issue` 
+Thank you, cryptoman :)
